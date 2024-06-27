@@ -1,0 +1,4 @@
+El puntaje de Juan es: 
+41El puntaje de Jorge es: 41
+El puntaje de Martin es: 684
+El puntaje de Fatima es: 6464
